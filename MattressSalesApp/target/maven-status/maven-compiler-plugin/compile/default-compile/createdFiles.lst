@@ -1,0 +1,4 @@
+com\mycompany\mattresssalesapp\MattressSalesApp.class
+com\mycompany\mattresssalesapp\ProductCalculations.class
+com\mycompany\mattresssalesapp\ProductApp.class
+com\mycompany\mattresssalesapp\IProductCalculations.class
